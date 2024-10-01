@@ -10,6 +10,19 @@ This is the final assigment project for SQL course, in Afeka - the academic coll
 ## ERD Diagram
 <img src="https://github.com/user-attachments/assets/57041d30-0189-4bda-b46a-4363c6d8c8d2" alt="WelcomePage" width="50%" height="50%">
 
+## Database Tables
+- **Cinema Table**: Holds basic cinema details.
+- **Employee Tables**: Separate tables for ushers and ticket sellers, including their unique attributes.
+- **Hall Table**: Includes hall details like number of rows and chairs.
+- **Movie Table**: Stores information about each movie.
+- **Screening Table**: Links movies to specific halls with date and time details.
+- **Viewer and Ticket Tables**: Manages viewers and their purchased tickets.
+
+## Users
+- **Cinema Manager**: Manages screenings, employee performance, and revenue.
+- **Employees**: Can view non-sensitive information about colleagues, track performance metrics and shifts .
+- **Viewers**: Can purchase tickets and access relevant movie and screening details.
+
 ## System Features
 ### 1. **Cinema Information**
 - Each cinema has a unique ID and an address.
@@ -52,19 +65,6 @@ This is the final assigment project for SQL course, in Afeka - the academic coll
 
 6. **Revenue and Viewer Analytics**  
    - Queries to calculate total revenue from ticket sales and average viewers per movie.
-
-## Database Tables
-- **Cinema Table**: Holds basic cinema details.
-- **Employee Tables**: Separate tables for ushers and ticket sellers, including their unique attributes.
-- **Hall Table**: Includes hall details like number of rows and chairs.
-- **Movie Table**: Stores information about each movie.
-- **Screening Table**: Links movies to specific halls with date and time details.
-- **Viewer and Ticket Tables**: Manages viewers and their purchased tickets.
-
-## Users
-- **Cinema Manager**: Manages screenings, employee performance, and revenue.
-- **Employees**: Can view non-sensitive information about colleagues, track performance metrics and shifts .
-- **Viewers**: Can purchase tickets and access relevant movie and screening details.
 
 ## SQL Highlights
 - **Functions**: Implemented for seat availability checks and screening validation.
