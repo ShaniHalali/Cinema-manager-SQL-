@@ -29,7 +29,7 @@ The **Shani & Ori Cinema Management System** is a comprehensive solution designe
 
 ## Key Functionalities
 1. **Seat Availability Check**  
-   - A function named `check_availability` ensures that before purchasing a ticket, seat availability is verified for the selected screening.
+   - A function named "check_availability" ensures that before purchasing a ticket, seat availability is verified for the selected screening.
 
 2. **Triggers**  
    - A trigger checks seat availability using the "check_availability" function before each ticket purchase.
