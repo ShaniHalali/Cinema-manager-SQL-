@@ -1,4 +1,4 @@
-##Cinema Management System🎥🎞️🎬🍿
+## Cinema Management System🎥🎞️🎬🍿
 This is the final assigment project for SQL course, in Afeka - the academic college of Engineering in Tel Aviv.
 
 ## Project Overview
