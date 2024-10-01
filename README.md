@@ -1,5 +1,8 @@
 ## Cinema Management System🎥🎞️🎬🍿
 This is the final assigment project for SQL course, in Afeka - the academic college of Engineering in Tel Aviv.
+**Project report :** [Cinema presentation.pptx](https://github.com/user-attachments/files/17203389/Cinema.presentation.pptx)
+
+**Project presentation :** [Project Report.pdf](https://github.com/user-attachments/files/17203387/Project.Report.pdf)
 
 ## Project Overview
 The **Shani & Ori Cinema Management System** is a comprehensive solution designed to manage the operations of a cinema, including employee management, movie scheduling, and ticket sales for the viewers. The system efficiently organizes information related to movies, screenings, employees (ushers and ticket sellers), and cinema halls. It includes various SQL functionalities such as triggers, views, and functions to streamline cinema management.
