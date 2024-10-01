@@ -1,4 +1,4 @@
-# Shani & Ori Cinema Management System
+# Shani & Ori Cinema Management System🎥🎞️📽️🎬🍿
 This is the final assigment project for SQL course, in Afeka - the academic college of Engineering in Tel Aviv.
 
 ## Project Overview
@@ -29,7 +29,7 @@ The **Shani & Ori Cinema Management System** is a comprehensive solution designe
    - A function named `check_availability` ensures that before purchasing a ticket, seat availability is verified for the selected screening.
 
 2. **Triggers**  
-   - A trigger checks seat availability using the `check_availability` function before each ticket purchase.
+   - A trigger checks seat availability using the "check_availability" function before each ticket purchase.
    - A trigger is set up before any screening insert that activates the function "check_movie_screenings" to ensure that a specific movie does not have more than 2 screenings in one day.
 
 3. **Data Management**  
@@ -39,10 +39,10 @@ The **Shani & Ori Cinema Management System** is a comprehensive solution designe
    - A query awards a salary bonus to outstanding employees (based on performance criteria like ticket sales and customer assistance).
 
 5. **Views for Data Display**  
-   - `employees_view`: Displays employees' first names, last names, and roles, sorted alphabetically, excluding salary information, so that this information is not accessible to everyone..
-   - 'usherForHall_view' : Display the list of halls along with the name of the usher assigned to each hall.
-   - `usherScreening_view`: Shows ushers and their assigned screening shifts.
-   - `CinemaOverview`: Displays movie screenings, organized by title, date, time, and available seats.
+   - "employees_view": Displays employees' first names, last names, and roles, sorted alphabetically, excluding salary information, so that this information is not accessible to everyone..
+   - "usherForHall_view" : Display the list of halls along with the name of the usher assigned to each hall.
+   - "usherScreening_view": Shows ushers and their assigned screening shifts.
+   - "CinemaOverview": Displays movie screenings, organized by title, date, time, and available seats.
 
 6. **Revenue and Viewer Analytics**  
    - Queries to calculate total revenue from ticket sales and average viewers per movie.
