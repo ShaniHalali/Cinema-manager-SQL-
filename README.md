@@ -1,6 +1,7 @@
 ## Cinema Management System🎥🎞️🎬🍿
 This is the final assigment project for SQL course, in Afeka - the academic college of Engineering in Tel Aviv.
-
+Final grade: 100
+כ
 **Project report :**  [Project Report.pdf](https://github.com/user-attachments/files/17203387/Project.Report.pdf) 
    **Project presentation :**  [Cinema presentation.pptx](https://github.com/user-attachments/files/17203389/Cinema.presentation.pptx)  
 
